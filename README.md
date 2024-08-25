@@ -1,6 +1,6 @@
 <div align="center">
-<h1>Task Manager</h1>
-A Python-Django Task Manager Project with REST API 
+<h1>Task Management</h1>
+RESTful API for Task Management Using Python
 <br>
 <br>
 <h3>Project's Short Demo</h3>
@@ -48,7 +48,7 @@ sudo apt install python3-pip
 -   Clone the repository
 
 ```bash
-git clone https://github.com/prakashuniyal01/RESTful-API-for-a-task-management-system.
+git clone https://github.com/Shreyas-jdv/RESTful-API-for-Task-Management.
 ```
 
 -   Go to the project directory
