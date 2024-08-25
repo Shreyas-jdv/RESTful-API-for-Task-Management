@@ -3,11 +3,11 @@
         "model": "admin.logentry",
         "pk": 1,
         "fields": {
-            "action_time": "2023-09-18T10:22:53.730Z",
+            "action_time": "2024-07-18T10:22:53.730Z",
             "user": 1,
             "content_type": 7,
             "object_id": "1",
-            "object_repr": "CSE115 Assignment",
+            "object_repr": "CS Assignment",
             "action_flag": 1,
             "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"photo\", \"object\": \"photos/c.png\"}}, {\"added\": {\"name\": \"photo\", \"object\": \"photos/dev.png\"}}]"
         }
@@ -16,11 +16,11 @@
         "model": "admin.logentry",
         "pk": 2,
         "fields": {
-            "action_time": "2023-09-18T10:45:53.071Z",
+            "action_time": "2024-07-18T10:45:53.071Z",
             "user": 1,
             "content_type": 7,
             "object_id": "1",
-            "object_repr": "CSE115 Assignment",
+            "object_repr": "CS Assignment",
             "action_flag": 2,
             "change_message": "[{\"changed\": {\"fields\": [\"Due date\"]}}]"
         }
@@ -29,7 +29,7 @@
         "model": "admin.logentry",
         "pk": 3,
         "fields": {
-            "action_time": "2023-09-18T10:56:37.126Z",
+            "action_time": "2024-07-18T10:56:37.126Z",
             "user": 1,
             "content_type": 8,
             "object_id": "3",
@@ -42,7 +42,7 @@
         "model": "admin.logentry",
         "pk": 4,
         "fields": {
-            "action_time": "2023-09-18T11:10:43.081Z",
+            "action_time": "2024-07-18T11:10:43.081Z",
             "user": 1,
             "content_type": 8,
             "object_id": "4",
@@ -55,11 +55,11 @@
         "model": "admin.logentry",
         "pk": 5,
         "fields": {
-            "action_time": "2023-09-18T22:32:47.489Z",
+            "action_time": "2024-07-18T22:32:47.489Z",
             "user": 1,
             "content_type": 4,
             "object_id": "2",
-            "object_repr": "Rahim",
+            "object_repr": "Samuel",
             "action_flag": 1,
             "change_message": "[{\"added\": {}}]"
         }
@@ -68,11 +68,11 @@
         "model": "admin.logentry",
         "pk": 6,
         "fields": {
-            "action_time": "2023-09-18T22:34:17.240Z",
+            "action_time": "2024-07-18T22:34:17.240Z",
             "user": 1,
             "content_type": 4,
             "object_id": "3",
-            "object_repr": "Karim",
+            "object_repr": "Warren",
             "action_flag": 1,
             "change_message": "[{\"added\": {}}]"
         }
@@ -81,11 +81,11 @@
         "model": "admin.logentry",
         "pk": 7,
         "fields": {
-            "action_time": "2023-09-18T22:34:57.798Z",
+            "action_time": "2024-07-18T22:34:57.798Z",
             "user": 1,
             "content_type": 4,
             "object_id": "4",
-            "object_repr": "Sohel",
+            "object_repr": "Steve",
             "action_flag": 1,
             "change_message": "[{\"added\": {}}]"
         }
@@ -94,7 +94,7 @@
         "model": "admin.logentry",
         "pk": 8,
         "fields": {
-            "action_time": "2023-09-19T05:52:30.827Z",
+            "action_time": "2024-07-19T05:52:30.827Z",
             "user": 1,
             "content_type": 8,
             "object_id": "6",
@@ -107,7 +107,7 @@
         "model": "admin.logentry",
         "pk": 9,
         "fields": {
-            "action_time": "2023-09-19T05:53:31.746Z",
+            "action_time": "2024-07-19T05:53:31.746Z",
             "user": 1,
             "content_type": 8,
             "object_id": "7",
@@ -120,11 +120,11 @@
         "model": "admin.logentry",
         "pk": 10,
         "fields": {
-            "action_time": "2023-09-19T05:54:09.134Z",
+            "action_time": "2024-07-19T05:54:09.134Z",
             "user": 1,
             "content_type": 7,
             "object_id": "4",
-            "object_repr": "Data Structure Exam",
+            "object_repr": "DSA Examination",
             "action_flag": 2,
             "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
         }
@@ -133,11 +133,11 @@
         "model": "admin.logentry",
         "pk": 11,
         "fields": {
-            "action_time": "2023-09-19T05:59:00.105Z",
+            "action_time": "2024-07-19T05:59:00.105Z",
             "user": 1,
             "content_type": 7,
             "object_id": "6",
-            "object_repr": "C Project",
+            "object_repr": "AI/ML Project",
             "action_flag": 1,
             "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"photo\", \"object\": \"photos/c_Ll19OSq.png\"}}, {\"added\": {\"name\": \"photo\", \"object\": \"photos/dsa.png\"}}]"
         }
@@ -146,7 +146,7 @@
         "model": "admin.logentry",
         "pk": 12,
         "fields": {
-            "action_time": "2023-09-19T06:05:42.384Z",
+            "action_time": "2024-07-19T06:05:42.384Z",
             "user": 1,
             "content_type": 7,
             "object_id": "7",
@@ -159,7 +159,7 @@
         "model": "admin.logentry",
         "pk": 13,
         "fields": {
-            "action_time": "2023-09-19T06:07:41.742Z",
+            "action_time": "2024-07-19T06:07:41.742Z",
             "user": 1,
             "content_type": 7,
             "object_id": "8",
@@ -172,11 +172,11 @@
         "model": "admin.logentry",
         "pk": 14,
         "fields": {
-            "action_time": "2023-09-19T06:18:01.109Z",
+            "action_time": "2024-07-19T06:18:01.109Z",
             "user": 1,
             "content_type": 7,
             "object_id": "5",
-            "object_repr": "OOP Quiz",
+            "object_repr": "OOPS Quiz",
             "action_flag": 2,
             "change_message": "[{\"deleted\": {\"name\": \"photo\", \"object\": \"sleep1.jpg\"}}]"
         }
@@ -185,11 +185,11 @@
         "model": "admin.logentry",
         "pk": 15,
         "fields": {
-            "action_time": "2023-09-19T06:18:35.938Z",
+            "action_time": "2024-07-19T06:18:35.938Z",
             "user": 1,
             "content_type": 7,
             "object_id": "5",
-            "object_repr": "OOP Quiz",
+            "object_repr": "OOPS Quiz",
             "action_flag": 2,
             "change_message": "[{\"added\": {\"name\": \"photo\", \"object\": \"photos/sleep1_sMUQHEi.jpg\"}}]"
         }
@@ -198,7 +198,7 @@
         "model": "admin.logentry",
         "pk": 16,
         "fields": {
-            "action_time": "2023-09-19T06:28:11.439Z",
+            "action_time": "2024-07-19T06:28:11.439Z",
             "user": 1,
             "content_type": 7,
             "object_id": "9",
@@ -211,11 +211,11 @@
         "model": "admin.logentry",
         "pk": 17,
         "fields": {
-            "action_time": "2023-09-19T06:30:43.230Z",
+            "action_time": "2024-07-19T06:30:43.230Z",
             "user": 1,
             "content_type": 7,
             "object_id": "10",
-            "object_repr": "Cpp Midterm",
+            "object_repr": "C++ Insem Examination",
             "action_flag": 1,
             "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"photo\", \"object\": \"photos/pro_LwkyWlY.png\"}}]"
         }
@@ -224,7 +224,7 @@
         "model": "admin.logentry",
         "pk": 18,
         "fields": {
-            "action_time": "2023-09-19T06:33:50.650Z",
+            "action_time": "2024-06-19T06:33:50.650Z",
             "user": 1,
             "content_type": 7,
             "object_id": "11",
@@ -237,11 +237,11 @@
         "model": "admin.logentry",
         "pk": 19,
         "fields": {
-            "action_time": "2023-09-19T06:35:31.562Z",
+            "action_time": "2024-07-19T06:35:31.562Z",
             "user": 1,
             "content_type": 7,
             "object_id": "12",
-            "object_repr": "Web Project",
+            "object_repr": "Web Development Project",
             "action_flag": 1,
             "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"photo\", \"object\": \"photos/dsa_CSbojET.png\"}}, {\"added\": {\"name\": \"photo\", \"object\": \"photos/c_LLSwf5K.png\"}}]"
         }
@@ -250,7 +250,7 @@
         "model": "admin.logentry",
         "pk": 20,
         "fields": {
-            "action_time": "2023-09-19T06:37:56.599Z",
+            "action_time": "2024-07-19T06:37:56.599Z",
             "user": 1,
             "content_type": 7,
             "object_id": "13",
@@ -263,7 +263,7 @@
         "model": "admin.logentry",
         "pk": 21,
         "fields": {
-            "action_time": "2023-09-19T06:40:33.499Z",
+            "action_time": "2024-07-19T06:40:33.499Z",
             "user": 1,
             "content_type": 7,
             "object_id": "14",
@@ -276,7 +276,7 @@
         "model": "admin.logentry",
         "pk": 22,
         "fields": {
-            "action_time": "2023-09-19T06:42:53.253Z",
+            "action_time": "2024-07-19T06:42:53.253Z",
             "user": 1,
             "content_type": 7,
             "object_id": "15",
@@ -289,7 +289,7 @@
         "model": "admin.logentry",
         "pk": 23,
         "fields": {
-            "action_time": "2023-09-19T07:20:27.377Z",
+            "action_time": "2024-07-19T07:20:27.377Z",
             "user": 1,
             "content_type": 7,
             "object_id": "16",
@@ -302,11 +302,11 @@
         "model": "admin.logentry",
         "pk": 24,
         "fields": {
-            "action_time": "2023-09-19T11:36:56.678Z",
+            "action_time": "2024-07-19T11:36:56.678Z",
             "user": 1,
             "content_type": 7,
             "object_id": "17",
-            "object_repr": "Biology Exam",
+            "object_repr": "Biology Examination",
             "action_flag": 1,
             "change_message": "[{\"added\": {}}, {\"added\": {\"name\": \"photo\", \"object\": \"photos/dsa_MIJjtsh.png\"}}, {\"added\": {\"name\": \"photo\", \"object\": \"photos/pro_lMPJlqj.png\"}}]"
         }
@@ -315,7 +315,7 @@
         "model": "admin.logentry",
         "pk": 25,
         "fields": {
-            "action_time": "2023-09-19T11:38:43.383Z",
+            "action_time": "2024-07-19T11:38:43.383Z",
             "user": 1,
             "content_type": 7,
             "object_id": "18",
@@ -328,7 +328,7 @@
         "model": "admin.logentry",
         "pk": 26,
         "fields": {
-            "action_time": "2023-09-19T11:40:56.776Z",
+            "action_time": "2024-07-19T11:40:56.776Z",
             "user": 1,
             "content_type": 7,
             "object_id": "19",
@@ -632,13 +632,13 @@
             "password": "pbkdf2_sha256$600000$h76pE63EPyMkXvZhdtADlx$K+j0cCbW92NNISvKs/tLje86WfRLO7MUXbv/niXD5i0=",
             "last_login": "2023-09-19T10:31:50.645Z",
             "is_superuser": true,
-            "username": "mrdehan",
+            "username": "Brian",
             "first_name": "",
             "last_name": "",
-            "email": "mrdehan@gmail.com",
+            "email": "Brian@gmail.com",
             "is_staff": true,
             "is_active": true,
-            "date_joined": "2023-09-18T06:39:44.905Z",
+            "date_joined": "2024-07-18T06:39:44.905Z",
             "groups": [],
             "user_permissions": []
         }
@@ -650,13 +650,13 @@
             "password": "pbkdf2_sha256$600000$xoz1TAirMxqoNXSHZ5CS4v$sA9CJkGvnQAmCllsnnTjsJDvs5wR24s3PaW9b3eoD6Q=",
             "last_login": null,
             "is_superuser": false,
-            "username": "Rahim",
+            "username": "Samuel",
             "first_name": "",
             "last_name": "",
             "email": "",
             "is_staff": false,
             "is_active": true,
-            "date_joined": "2023-09-18T22:32:47.357Z",
+            "date_joined": "2024-07-18T22:32:47.357Z",
             "groups": [],
             "user_permissions": []
         }
@@ -668,13 +668,13 @@
             "password": "pbkdf2_sha256$600000$pWhuEi9ua76DzXoREl8RNi$Tvy5jDHVG9dkcUfX0q2DZ1BI/jTGPPqj+I1kDsL5yeY=",
             "last_login": null,
             "is_superuser": false,
-            "username": "Karim",
+            "username": "Warren",
             "first_name": "",
             "last_name": "",
             "email": "",
             "is_staff": false,
             "is_active": true,
-            "date_joined": "2023-09-18T22:34:17.108Z",
+            "date_joined": "2024-07-18T22:34:17.108Z",
             "groups": [],
             "user_permissions": []
         }
@@ -686,13 +686,13 @@
             "password": "pbkdf2_sha256$600000$BElBJFJi7EqYfwyBk5702a$rcP/wyv2Zfv6bN1QgdkwuKC2eDhM6p5jb7On7ZpnkD4=",
             "last_login": null,
             "is_superuser": false,
-            "username": "Sohel",
+            "username": "Steve",
             "first_name": "",
             "last_name": "",
             "email": "",
             "is_staff": false,
             "is_active": true,
-            "date_joined": "2023-09-18T22:34:57.666Z",
+            "date_joined": "2024-07-18T22:34:57.666Z",
             "groups": [],
             "user_permissions": []
         }
@@ -760,7 +760,7 @@
         "pk": "qphtbonpwr2qxrtq4p5htmuk4xab0n2x",
         "fields": {
             "session_data": ".eJxVjEEOgjAQRe_StWls6zCDS_ecoZlpB4saSCisjHcXEha6_e-9_zaR16XEteoch2yuxpnT7yacnjruID94vE82TeMyD2J3xR602m7K-rod7t9B4Vq2OrTYZiLxXluk3nlhCYiOzkjQY9DUAIIDRsfi9LKJkjRRQ-CBIZjPF8RxNyU:1qiY1G:EoatpXcIfMjHrV7kse8CB581fu9zme2eBh9RQjZVtDQ",
-            "expire_date": "2023-10-03T10:31:50.647Z"
+            "expire_date": "2024-09-03T10:31:50.647Z"
         }
     },
     {
@@ -769,8 +769,8 @@
         "fields": {
             "title": "CSE225 Assignment",
             "description": "Lab Task for Chapter-1",
-            "creation_date": "2023-09-18T10:22:53.728Z",
-            "due_date": "2023-09-18T18:00:00Z",
+            "creation_date": "2024-07-18T10:22:53.728Z",
+            "due_date": "2024-07-18T18:00:00Z",
             "priority": "High",
             "is_complete": true,
             "user": 1
@@ -782,8 +782,8 @@
         "fields": {
             "title": "Database Quiz",
             "description": "Quiz-2",
-            "creation_date": "2023-09-18T22:44:10.660Z",
-            "due_date": "2023-09-20T04:45:00Z",
+            "creation_date": "2024-07-18T22:44:10.660Z",
+            "due_date": "2024-07-20T04:45:00Z",
             "priority": "Low",
             "is_complete": true,
             "user": 1
@@ -793,10 +793,10 @@
         "model": "tasks.task",
         "pk": 4,
         "fields": {
-            "title": "Data Structure Exam",
+            "title": "DSA Examination",
             "description": "1st Chapter",
-            "creation_date": "2023-09-18T23:26:22.286Z",
-            "due_date": "2023-09-21T05:26:00Z",
+            "creation_date": "2024-07-18T23:26:22.286Z",
+            "due_date": "2024-07-21T05:26:00Z",
             "priority": "Medium",
             "is_complete": false,
             "user": 1
@@ -808,8 +808,8 @@
         "fields": {
             "title": "OOP Quiz",
             "description": "Object Oriented Programming",
-            "creation_date": "2023-09-18T23:50:01.937Z",
-            "due_date": "2023-09-19T09:49:00Z",
+            "creation_date": "2024-07-18T23:50:01.937Z",
+            "due_date": "2024-07-19T09:49:00Z",
             "priority": "Medium",
             "is_complete": true,
             "user": 2
@@ -819,10 +819,10 @@
         "model": "tasks.task",
         "pk": 6,
         "fields": {
-            "title": "C Project",
+            "title": "AI/ML Project",
             "description": "Terminal Project using CPP",
-            "creation_date": "2023-09-19T05:59:00.104Z",
-            "due_date": "2023-09-23T05:56:38Z",
+            "creation_date": "2024-07-19T05:59:00.104Z",
+            "due_date": "2024-07-23T05:56:38Z",
             "priority": "Low",
             "is_complete": false,
             "user": 3
@@ -834,8 +834,8 @@
         "fields": {
             "title": "Complete UI Design",
             "description": "UI Design of Project",
-            "creation_date": "2023-09-19T06:05:42.381Z",
-            "due_date": "2023-09-29T18:00:00Z",
+            "creation_date": "2024-07-19T06:05:42.381Z",
+            "due_date": "2024-07-29T18:00:00Z",
             "priority": "High",
             "is_complete": false,
             "user": 2
@@ -847,8 +847,8 @@
         "fields": {
             "title": "React Assignment",
             "description": "Complete React Assignment",
-            "creation_date": "2023-09-19T06:07:41.739Z",
-            "due_date": "2023-09-28T12:00:00Z",
+            "creation_date": "2024-07-19T06:07:41.739Z",
+            "due_date": "2024-07-28T12:00:00Z",
             "priority": "Low",
             "is_complete": true,
             "user": 2
@@ -860,8 +860,8 @@
         "fields": {
             "title": "Software Engineering Project",
             "description": "Software Engineering Project Complete",
-            "creation_date": "2023-09-19T06:28:11.437Z",
-            "due_date": "2023-10-19T00:00:00Z",
+            "creation_date": "2024-07-19T06:28:11.437Z",
+            "due_date": "2024-09-19T00:00:00Z",
             "priority": "Medium",
             "is_complete": false,
             "user": 3
@@ -873,8 +873,8 @@
         "fields": {
             "title": "Cpp Midterm",
             "description": "Cpp Midterm",
-            "creation_date": "2023-09-19T06:30:43.229Z",
-            "due_date": "2023-10-17T06:00:00Z",
+            "creation_date": "2024-07-19T06:30:43.229Z",
+            "due_date": "2024-09-17T06:00:00Z",
             "priority": "Low",
             "is_complete": true,
             "user": 2
@@ -886,8 +886,8 @@
         "fields": {
             "title": "History Assignment",
             "description": "History Assignment",
-            "creation_date": "2023-09-19T06:33:50.649Z",
-            "due_date": "2023-09-29T10:17:27Z",
+            "creation_date": "2024-07-19T06:33:50.649Z",
+            "due_date": "2024-07-29T10:17:27Z",
             "priority": "High",
             "is_complete": false,
             "user": 4
@@ -897,10 +897,10 @@
         "model": "tasks.task",
         "pk": 12,
         "fields": {
-            "title": "Web Project",
+            "title": "Web Development Project",
             "description": "Web Project Regarding Tasks",
-            "creation_date": "2023-09-19T06:35:31.560Z",
-            "due_date": "2023-10-31T12:00:00Z",
+            "creation_date": "2024-07-19T06:35:31.560Z",
+            "due_date": "2024-09-31T12:00:00Z",
             "priority": "High",
             "is_complete": true,
             "user": 2
@@ -912,8 +912,8 @@
         "fields": {
             "title": "Database Quiz 3",
             "description": "Database Quiz 3",
-            "creation_date": "2023-09-19T06:37:56.598Z",
-            "due_date": "2023-10-28T06:00:00Z",
+            "creation_date": "2024-07-19T06:37:56.598Z",
+            "due_date": "2024-09-28T06:00:00Z",
             "priority": "Medium",
             "is_complete": false,
             "user": 3
@@ -925,8 +925,8 @@
         "fields": {
             "title": "Django Asignment",
             "description": "Django Asignment",
-            "creation_date": "2023-09-19T06:40:33.498Z",
-            "due_date": "2023-09-30T06:00:00Z",
+            "creation_date": "2024-07-19T06:40:33.498Z",
+            "due_date": "2024-07-30T06:00:00Z",
             "priority": "Medium",
             "is_complete": true,
             "user": 4
@@ -938,8 +938,8 @@
         "fields": {
             "title": "Project Management Assignment",
             "description": "Project Management",
-            "creation_date": "2023-09-19T06:42:53.251Z",
-            "due_date": "2023-09-29T06:00:00Z",
+            "creation_date": "2024-07-19T06:42:53.251Z",
+            "due_date": "2024-07-29T06:00:00Z",
             "priority": "Medium",
             "is_complete": false,
             "user": 4
@@ -951,8 +951,8 @@
         "fields": {
             "title": "AI Assignment",
             "description": "AI Assignment",
-            "creation_date": "2023-09-19T07:20:27.375Z",
-            "due_date": "2023-09-21T00:00:00Z",
+            "creation_date": "2024-07-19T07:20:27.375Z",
+            "due_date": "2024-07-21T00:00:00Z",
             "priority": "High",
             "is_complete": true,
             "user": 4
@@ -963,9 +963,9 @@
         "pk": 17,
         "fields": {
             "title": "Biology Exam",
-            "description": "Biology Exam",
-            "creation_date": "2023-09-19T11:36:56.675Z",
-            "due_date": "2023-09-23T06:00:00Z",
+            "description": "Biology Examination",
+            "creation_date": "2024-07-19T11:36:56.675Z",
+            "due_date": "2024-07-23T06:00:00Z",
             "priority": "Medium",
             "is_complete": false,
             "user": 5
@@ -977,8 +977,8 @@
         "fields": {
             "title": "Complete React Testing",
             "description": "Complete React Testing",
-            "creation_date": "2023-09-19T11:38:43.382Z",
-            "due_date": "2023-10-25T12:00:00Z",
+            "creation_date": "2024-07-19T11:38:43.382Z",
+            "due_date": "2024-09-25T12:00:00Z",
             "priority": "Medium",
             "is_complete": true,
             "user": 5
@@ -990,8 +990,8 @@
         "fields": {
             "title": "Software Engineering Assignment",
             "description": "Software Engineering Assignment",
-            "creation_date": "2023-09-19T11:40:56.774Z",
-            "due_date": "2023-09-21T06:00:00Z",
+            "creation_date": "2024-07-19T11:40:56.774Z",
+            "due_date": "2024-07-21T06:00:00Z",
             "priority": "High",
             "is_complete": false,
             "user": 5
